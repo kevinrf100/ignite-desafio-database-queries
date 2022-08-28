@@ -1,4 +1,5 @@
-# Desafio 06 - Database Queries
+# ![cover-node js](https://user-images.githubusercontent.com/30449737/187058575-a7366f29-edb2-4dc8-b499-28378c666ab8.png)
+Desafio 06 - Database Queries
 
 # 💻 Sobre o desafio
 
